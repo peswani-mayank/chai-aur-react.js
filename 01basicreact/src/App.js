@@ -1,7 +1,7 @@
 
 function App() {
   return (
-    <h1>Home page</h1>
+    <h1>Welcome to Home Page</h1>
   );
 }
 
